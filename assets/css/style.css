@@ -26,7 +26,7 @@
 }
 
 .info.div.card-group{
-  background-color: black;
+  background-color: white;
 }
 
 div.card-group {
@@ -35,4 +35,20 @@ div.card-group {
 
 div.card-body{
   background-color: black;
+}
+
+
+.contacto{
+  background-color: black;
+  color: #fff;
+}
+
+.destacados{
+  background-color: black;
+  color: #fff;
+}
+
+.info{
+  background-color: black;
+  color: white;
 }
